@@ -1,0 +1,6 @@
+C:\Users\RB074532\RiderProjects\Design Patterns\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Users\RB074532\RiderProjects\Design Patterns\TemplateMethod\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Users\RB074532\RiderProjects\Design Patterns\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\RB074532\RiderProjects\Design Patterns\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\RB074532\RiderProjects\Design Patterns\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Users\RB074532\RiderProjects\Design Patterns\TemplateMethod\TemplateMethod\obj\Debug\TemplateMethod.pdb

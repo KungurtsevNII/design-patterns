@@ -1,0 +1,15 @@
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\obj\Debug\Observer.pdb
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\bin\Debug\System.Reactive.dll
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\bin\Debug\System.ValueTuple.dll
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\bin\Debug\System.Reactive.xml
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\bin\Debug\System.ValueTuple.xml
+C:\Users\RB074532\RiderProjects\Design Patterns\Observer\Observer\obj\Debug\Observer.csproj.CopyComplete
