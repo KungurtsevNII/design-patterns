@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\RB074532\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\RB074532\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\RB074532\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_AbstractFactory.-255708102.00" t="ExcludeRecursive" />
+    <e p="C:\Users\RB074532\RiderProjects\Design Patterns\Creational Patterns\AbstractFactory" t="IncludeFlat">
+      <e p="AbstractFactory.App" t="IncludeRecursive">
+        <e p="AbstractFactory.App.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Factories" t="Include">
+          <e p="ElfFactory.cs" t="Include" />
+          <e p="HeroFactory.cs" t="Include" />
+          <e p="HumanWarriorFactory.cs" t="Include" />
+        </e>
+        <e p="Hero.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Products" t="Include">
+          <e p="Arbalet.cs" t="Include" />
+          <e p="FlyMovement.cs" t="Include" />
+          <e p="HeroMovementBase.cs" t="Include" />
+          <e p="HeroWeaponBase.cs" t="Include" />
+          <e p="RunMovement.cs" t="Include" />
+          <e p="Sword.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="AbstractFactory.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
